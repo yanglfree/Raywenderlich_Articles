@@ -18,3 +18,8 @@ https://www.raywenderlich.com/25658084-core-image-tutorial-for-ios-custom-filter
 
 Fastlane Tutorial for Android: Getting Started
 https://www.raywenderlich.com/26869030-fastlane-tutorial-for-android-getting-started
+
+## 健康API
+
+https://www.raywenderlich.com/24859773-activity-recognition-api-tutorial-for-android-getting-started
+https://www.raywenderlich.com/24859773-activity-recognition-api-tutorial-for-android-getting-started
