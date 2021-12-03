@@ -13,3 +13,8 @@ https://www.raywenderlich.com/25218890-core-graphics-tutorial-lines-rectangles-a
 1. Core Image Filter
 https://www.raywenderlich.com/25658084-core-image-tutorial-for-ios-custom-filters
 滤镜处理图片
+
+##自动化打包
+
+Fastlane Tutorial for Android: Getting Started
+https://www.raywenderlich.com/26869030-fastlane-tutorial-for-android-getting-started
